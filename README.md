@@ -1,6 +1,10 @@
 ![logo](https://github.com/BurnKnucklesOFFICIAL/BurnKnucklesOFFICIAL/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm BurnKnuckles</h1>
-<h3 align="center">A passionate software engineer from India. Currently, all my work and portfolio are private. I am updating the old code to new standards, making the code more maintainable, and ensuring no sensitive information is accidentally leaked. Once these updates are complete, I will make my repositories public, inviting everyone to contribute.</h3>
+<h3 align="center">A passionate software engineer from India.</h3>
+
+<h4 align="center">Currently, all my work and portfolio are private. I am updating the old code to new standards, making the code more maintainable, and ensuring no sensitive information is accidentally leaked. Once these updates are complete, I will make my repositories public, inviting everyone to contribute.</h4>
+
+<br>
 
 - 🌱 I’m currently learning **C, TypeScript, Node.js, Next.js, and Docker, and revising all languages I've previously learned with new frameworks.**
 
