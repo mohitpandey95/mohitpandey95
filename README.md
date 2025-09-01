@@ -1,19 +1,19 @@
 ![logo](https://github.com/BurnKnucklesOFFICIAL/BurnKnucklesOFFICIAL/blob/main/banner.jpeg)
-<h1 align="center">Hi 👋, I'm BurnKnuckles</h1>
-<h3 align="center">A passionate software engineer from India.</h3>
+<h1 align="center">Hi 👋, I'm Mohit Pandey</h1>
+<h3 align="center">Exploring technology, building projects, and constantly evolving my craft.</h3>
 
-<h4 align="center">Currently, all my work and portfolio are private. I am updating the old code to new standards, making the code more maintainable, and ensuring no sensitive information is accidentally leaked. Once these updates are complete, I will make my repositories public, inviting everyone to contribute.</h4>
+<h4 align="center">Most of my work and portfolio are private while I update old projects to new standards. A few repositories are public, and more will be shared gradually as they reach production quality. Once these updates are complete, I will make my repositories public, inviting everyone to contribute.</h4>
 
 <br>
 
 - 🌱 I’m currently learning **C, TypeScript, Node.js, Next.js, and Docker, and revising all languages I've previously learned with new frameworks.**
 
-- 📫 How to reach me **You can reach me via email at burnknucklesoffical@gmail.com or on Discord with the ID burnknucklesofficial .**
+- 📫 How to reach me **You can reach me via email at mohitpandey.office@gmail.com .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/burnknuckles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="burnknuckles" height="30" width="40" /></a>
-<a href="https://instagram.com/burnknucklesog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burnknucklesofficial" height="30" width="40" /></a>
+<a href="https://dev.to/mohitpandey95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohitpandey95" height="30" width="40" /></a>
+<a href="https://instagram.com/_mohitpande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohitpandey95" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
