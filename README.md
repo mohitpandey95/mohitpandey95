@@ -1,5 +1,5 @@
 ![logo](https://github.com/BurnKnucklesOFFICIAL/BurnKnucklesOFFICIAL/blob/main/banner.jpeg)
-<h1 align="center">Hi 👋, I'm Mohit Pandey</h1>
+<h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">Exploring technology, building projects, and constantly evolving my craft.</h3>
 
 <h4 align="center">Most of my work and portfolio are private while I update old projects to new standards. A few repositories are public, and more will be shared gradually as they reach production quality. Once these updates are complete, I will make my repositories public, inviting everyone to contribute.</h4>
